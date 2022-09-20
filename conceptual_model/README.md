@@ -56,5 +56,5 @@ full conceptual model as the first step towards a database design
 * Consistent use of industry standard notation and convention
 
 # Logical Model
-[wc_logical.pdf](https://github.com/MikeJR111/Data-Modelling-/files/9603206/wc_logical.pdf)
+![1663635862(1)](https://user-images.githubusercontent.com/93886913/191145140-65497833-2af7-46f5-abe4-a1825ff0adb5.png)
 
