@@ -44,3 +44,13 @@ each cruise, the cabin which has been allocated for each passenger (this allocat
 carried out when the passenger is booked on the cruise). All cruises board passengers only
 at the cruise's originating port. For each passenger taking part in a cruise, WC also records
 the date and time when they first boarded the ship.
+
+## Purpose
+Given the provided case study transform the information provided in the case study into a 
+full conceptual model as the first step towards a database design
+
+## Criteria
+* Identification of the entities which support the case study.
+* Identification and placement of attributes to support the case study.
+* Determination of relationships which support the case study.
+* Consistent use of industry standard notation and convention
