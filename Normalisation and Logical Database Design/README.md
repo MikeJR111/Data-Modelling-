@@ -26,10 +26,10 @@ number of participants, a particular tour offering is not run unless this minimu
 number of participants have booked for it.
 
 c. cabins across the various ships are assigned a cabin class as one of the following
-○ interior
-○ ocean view
-○ balcony, or
-○ suite
+* interior
+* ocean view
+* balcony, or
+* suite
 These classes are fixed and will not be modified.
 
 d. country codes stored in the system make use of the ISO 3166-1 Alpha-2 codes eg. Australia is AU
@@ -38,8 +38,8 @@ e. languages stored in the system are stored as ISO 639-1 Alpha-2 codes eg. Engl
 
 f. latitudes and longitudes stored in the system are stored in decimal form, for example
 the latitude and longitude of Hobart, Tasmania, Australia is:
-○ latitude: -42.8825088
-○ longitude: 147.3281233
+* latitude: -42.8825088
+* longitude: 147.3281233
 
 World Cruises have supplied the following forms which are used within their business:
 (i) Tours which are available in a given port:
@@ -56,7 +56,7 @@ transform the information provided into a sound database design and implement it
 
 ## Criteria
 
-● Normalise the supplied case study documents and integrate the resultant relations into a logical model.
-● Depict the data requirements expressed in the case study via a relational database logical model.
-● Generate a schema which meets the case study data requirements from the logical model produced
-● Consistent use of industry standard notation and convention
+* Normalise the supplied case study documents and integrate the resultant relations into a logical model.
+* Depict the data requirements expressed in the case study via a relational database logical model.
+* Generate a schema which meets the case study data requirements from the logical model produced
+* Consistent use of industry standard notation and convention
