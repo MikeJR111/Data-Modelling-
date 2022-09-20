@@ -1,4 +1,4 @@
-## instruction 
+## Instruction 
 design a model for a database which can be used to support the activities of a travel business called World Cruises (WC).
 
 World Cruises books passengers on ships which host cruises that originate from various
@@ -54,3 +54,7 @@ full conceptual model as the first step towards a database design
 * Identification and placement of attributes to support the case study.
 * Determination of relationships which support the case study.
 * Consistent use of industry standard notation and convention
+
+# Logical Model
+[wc_logical.pdf](https://github.com/MikeJR111/Data-Modelling-/files/9603206/wc_logical.pdf)
+
