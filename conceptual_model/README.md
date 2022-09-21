@@ -55,6 +55,6 @@ full conceptual model as the first step towards a database design
 * Determination of relationships which support the case study.
 * Consistent use of industry standard notation and convention
 
-# Logical Model
+# Conceptual Model
 ![1663635862(1)](https://user-images.githubusercontent.com/93886913/191145140-65497833-2af7-46f5-abe4-a1825ff0adb5.png)
 
