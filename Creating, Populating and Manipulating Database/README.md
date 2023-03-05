@@ -1,4 +1,4 @@
-## Instruction
+## Case Study
 
 Run Monash (RM) is a running carnival which is held on separate dates at various Monash
 campuses during different seasons (Summer, Autumn, Winter and Spring) of the year. The
