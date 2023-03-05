@@ -1,4 +1,4 @@
-## Instruction 
+## Case Study 
 design a model for a database which can be used to support the activities of a travel business called World Cruises (WC).
 
 World Cruises books passengers on ships which host cruises that originate from various
